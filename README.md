@@ -9,7 +9,8 @@
 Linguagem de Programação moderna para iniciantes
 
 
-
+## Objetivo desse fork
+  - Criar uma versão em inglês do Potigol visãndo atingir novos públicos
 ## Características
   - Sintaxe simples
   - Palavras Chave em Português
